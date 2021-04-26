@@ -1,1 +1,0 @@
-push di folder berbeda tetapi link remote name sama
